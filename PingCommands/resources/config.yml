@@ -1,0 +1,2 @@
+PingMeMessage: "§f[§l§4Ping§r§f]: votre ping est de §l§4{ping}§r§fms"
+PingTarget: "§f[§l§4Ping§r§f]: le ping du joueur §l§4{player} §r§fest de §l§4{ping}§r§fms"
